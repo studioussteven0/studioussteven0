@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @studioussteven0.
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning c++ and cs basics.
+- 💞️ I’m looking to collaborate on nothing.
+- 📫 How to reach me discord: stevzn#5134.
